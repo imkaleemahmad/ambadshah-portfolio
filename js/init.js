@@ -303,7 +303,7 @@ function progress_by_frenify(wrapper){
 	element.each(function() {
 		var pWrap = jQuery(this);
 		pWrap.find('.number').css({right:'100%'});
-		console.log(pWrap.find('.number').length);
+		// console.log(pWrap.find('.number').length);
 		pWrap.waypoint({handler: function(){tdProgress(pWrap);},offset:'90%'});	
 	});
 }

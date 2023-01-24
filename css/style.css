@@ -478,7 +478,7 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 	position: relative;
-	margin-bottom: 190px;
+	/* margin-bottom: 190px; */
 }
 .dizme_tm_hero .background{
 	position: absolute;
@@ -942,7 +942,7 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	/* padding-top: 185px; */
+	padding-top: 185px;
 	/* margin-bottom: 165px; */
 	position: relative;
 }
@@ -1494,7 +1494,7 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	/* padding-top: 178px; */
+	padding-top: 178px;
 	margin-bottom: 160px;
 	position: relative;
 }
