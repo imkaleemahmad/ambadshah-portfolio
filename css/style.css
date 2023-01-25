@@ -927,7 +927,10 @@ h6 { font-size: 16px; }
 .dizme_tm_main_title span{
 	font-size: 24px;
 	font-weight: 500;
-	color: #f75023;
+	/* color: #f75023; */
+	color: white;
+	background-color: #f75023;
+	padding: 2px;
 	font-family: 'Jost', sans-serif;
 	display: inline-block;
 	margin-bottom: 6px;
