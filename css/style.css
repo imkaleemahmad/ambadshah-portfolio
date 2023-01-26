@@ -624,17 +624,17 @@ h6 { font-size: 16px; }
 	box-shadow: 24px 0px 72px rgba(54,32,152,.3);
 }
 .dizme_tm_hero .skills.illustrator{
-	background-color: #390000;
+	background-color: #ffffff;
 	top: 20px;
 	left: -30px;
 }
 .dizme_tm_hero .skills.photoshop{
-	background-color: #001631;
+	background-color: #ffffff;
 	right: 70px;
 	top: 80px;
 }
 .dizme_tm_hero .skills.figma{
-	background-color: #fff;
+	background-color: #ffffff;
 	bottom: 60px;
 	left: 140px;
 }
@@ -939,7 +939,7 @@ h6 { font-size: 16px; }
 	margin-bottom: 6px;
 }
 .dizme_tm_main_title h3{
-	font-size: 38px;
+	font-size: 48px;
 	line-height: 1.25;
 	margin-bottom: 23px;
 }
