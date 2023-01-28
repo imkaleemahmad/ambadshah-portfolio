@@ -478,7 +478,7 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 	position: relative;
-	/* margin-bottom: 190px; */
+	margin-bottom: -20px;
 }
 .dizme_tm_hero .background{
 	position: absolute;
@@ -503,15 +503,16 @@ h6 { font-size: 16px; }
 .dizme_tm_hero .details{
 	width: 50%;
 	padding-right: 20px;
+
 }
 .dizme_tm_hero .hello h3{
-	font-size: 30px;
+	font-size: 25px;
 }
 .dizme_tm_hero .name{
 	margin-bottom: 18px;
 }
 .dizme_tm_hero .name h3{
-	font-size: 65px;
+	font-size: 45px;
 }
 .dizme_tm_hero .job{
 	margin-bottom: 35px;
@@ -546,10 +547,10 @@ h6 { font-size: 16px; }
 	color: #fff;
 	display: inline-block;
 	font-family: 'Jost', sans-serif;
-	font-weight: 500;
-	border-radius: 15px;
+	font-weight: 400;
+	border-radius: 12px;
 	border: 2px solid #F06F2F;
-	padding: 14px 48px 13px 48px;
+	padding: 5px 25px 5px 25px;
 	position: relative;
 	overflow: hidden;
 }
@@ -588,6 +589,7 @@ h6 { font-size: 16px; }
 .dizme_tm_hero .social{
 	padding-left: 27px;
 	position: relative;
+	float: right;
 	top: -4px;
 }
 .dizme_tm_hero .social ul{
@@ -925,8 +927,9 @@ h6 { font-size: 16px; }
 	margin: 0px !important;
 }
 .dizme_tm_main_title span{
-	font-size: 24px;
+	font-size: 18px;
 	font-weight: 500;
+	border-radius: 2px;
 	/* color: #F06F2F; */
 	color: white;
 	background-color: #F06F2F;
@@ -934,12 +937,13 @@ h6 { font-size: 16px; }
 	padding-bottom: 2px;
 	padding-left: 8px;
 	padding-right: 8px;
+	width: 180px;
 	font-family: 'Jost', sans-serif;
 	display: inline-block;
 	margin-bottom: 6px;
 }
 .dizme_tm_main_title h3{
-	font-size: 48px;
+	font-size: 30px;
 	line-height: 1.25;
 	margin-bottom: 23px;
 }
